@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>form</title>
+    <style>
+        .frame {
+            border: 2px solid black;
+            padding: 20px;
+            width: 300px;
+            margin: auto;
+            box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+<div class="frame">
+    <style>
+        h3 {
+            color: green;
+        }
+    </style>
+    <h3>Registration Form</h3>
+    <form>
+        <label for="name"><b>Name</b></label><br>
+        <input type="text" id="name" name="name" required><br><br>
+        
+        <label for="email"><b>Email</b></label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        
+        <label for="password"><b>Password</b></label><br>
+        <input type="password" id="password" name="password" required><br><br>
+        
+        <label for="Re-type password"><b>Re-type Password</b></label><br>
+        <input type="password" id="repassword" name="repassword" required><br><br>
+
+        <label for="contact"><b>Contact</b></label><br>
+        <input type="text" id="contact" name="contact" required><br><br>
+
+        <label for="gender"><b>Gender</b></label><br>
+        <select name="gender" id="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br><br>
+        
+        <style>
+            .submit-button {
+                background-color: green;
+                color: white;
+                border: none;
+                padding: 5px 8px;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+        </style>
+        <input type="submit" value="Submit" class="submit-button">
+    </form>
+</div>
+</body>
+</html>
