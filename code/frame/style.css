@@ -1,0 +1,54 @@
+.wrap{
+	background: rgb(1, 255, 99);
+	width: 900px;
+	margin: 10px auto;
+}
+
+.wrap .header{
+	background: rgb(251, 255, 0);
+	padding: 2px 10px;
+}
+
+.wrap .menu{
+	background: rgb(0, 255, 234);
+}
+
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: rgb(0, 247, 255);
+	overflow: hidden;
+}
+
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.clear{
+	clear: both;
+}
+
+.badan{
+	height: 450px;
+}
+
+.wrap .badan .sidebar{
+	background: orange;
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+
+.wrap .badan .content{
+	background: rgb(255, 0, 242);
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
