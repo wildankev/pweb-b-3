@@ -8,17 +8,17 @@ Saya ditugaskan untuk membuat kode Tabel, Form, dan Frame menggunakan HTML
 ### Preview tabel
 ![Preview Tabel](assets/tabel.png)
 
-Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-2/blob/main/code/tabel.html)
+Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-3/blob/main/code/Tabel.html)
 
 ### Preview Form registrasi
 ![Preview Form](assets/form.png)
 
-Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-2/blob/main/code/form.html)
+Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-3/blob/main/code/Form.html)
 
 ### Previe Frame
 ![Preview Tabel](assets/frame.png)
 
-Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-2/blob/main/code/frame/)
+Kode dapat diakses [di sini](https://github.com/wildankev/pweb-b-3/tree/main/code/frame)
 
 ---
 ## Identitas
